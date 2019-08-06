@@ -6,5 +6,5 @@ A very simple script to remind your team to stay hydrated when hot outside
 python3 hydratation_bot/main.py
 ```
 The script is based on OpenWeather API and Slack API,
-it will check the outside temp every 4 hours and post a slack message if it's too hot
-Please Drink responsibly
+it will check the outside temp every 4 hours and post a slack message if it's too hot.
+</br>Please Drink responsibly
