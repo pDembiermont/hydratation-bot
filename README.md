@@ -1,4 +1,4 @@
-# Hydratation Bot
+# Hydratation Bot :droplet:
 A very simple script to remind your team to stay hydrated when hot outside
 
 ## Getting Started
